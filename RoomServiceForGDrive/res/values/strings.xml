@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RoomServiceForGDrive</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    
+    <string name="locateMeBtnWaiting">Finding your locationtitle_section1title_section1</string>
+    <string name="RoomQueryFragmentTitle">Find my room</string>
+    <string name="PickFolderFragmentTitle">Start collaborating</string>
+    <string name="MakeNewRoomActivityTitle">Remember a new room</string>
+
+</resources>
